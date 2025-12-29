@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=65&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20My%20GitHub-Profile&fontSize=65&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
 
@@ -49,15 +49,19 @@ My goal is to grow into a skilled **Machine Learning Engineer** and work on impa
 
 ## 📊 GitHub Performance
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&theme=dark&hide_border=true" width="40%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&theme=transparent&title_color=0077B5&text_color=555&hide_border=true" width="40%" />
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nadim-altaf&theme=dark&hide_border=true" width="85%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-altaf&theme=transparent&fire=0077B5&ring=0077B5&sideNums=0077B5&dates=555&hide_border=true" width="90%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
