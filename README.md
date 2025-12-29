@@ -1,58 +1,64 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=24292E&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I+am+a+Data+Science+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <br/>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Graduate;ML+Engineer+In+The+Making;IBM+Certified+Data+Analyst" alt="Typing SVG" />
+</h1>
 
-  <p>
-    <b>B.Tech CSE Student | IBM Certified Data Analyst (2025)</b><br/>
-    <i>Passionate about building intelligent systems to solve real-life problems.</i>
-  </p>
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0077B5&style=flat-square)
 
-  <a href="mailto:nadimaltaf271@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nadim-altaf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 
-  <br/><br/>
-
-</div>
-
-## 🧐 About Me
-
-- 🎓 **Education:** B.Tech in Computer Science & Engineering.
-- 🧠 **Focus:** Strong foundation in **DSA**, currently deep-diving into **Data Science & ML**.
-- 🚀 **Mission:** Creating real-world impact through AI and Open Source contributions.
-- 📜 **Certification:** IBM Certified Data Analyst (Earned 2025).
-
----
-
-<div align="center">
-  <h3>🚀 Technology Stack</h3>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPs-Concept-ff69b4?style=for-the-badge&logo=code&logoColor=white" />
 </div>
 
 ---
 
+### 📖 About Me
+
+I am a final-year **B.Tech Computer Science and Engineering** student and an aspiring **Machine Learning Engineer** with a deep interest in Data Science. As an **IBM Certified Data Analyst**, I focus on transforming complex datasets into actionable insights through statistical analysis and predictive modeling. I am dedicated to building intelligent systems that solve real-world problems, consistently bridging the gap between theoretical algorithms and practical applications. 
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C/C++` `SQL` |
+| **Data Science** | `Machine Learning` `Pandas` `NumPy` `Scikit-Learn` `Data Visualization` |
+| **Core Engineering** | `Data Structures & Algorithms` `OOPs` `Database Management` |
+| **Dev Tools** | `Git` `GitHub` `VS Code` `Jupyter` |
+
+---
+
+### 🏆 Certifications & Achievements
+* 🎓 **B.Tech CSE** | Strong foundation in Computer Science fundamentals.
+* 📜 **IBM Certified Data Analyst** | Specialized in data cleaning, analysis, and visualization (2025).
+* 🚀 **Open Source** | Actively contributing to Python and ML-based repositories.
+
+---
+
+### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&fire=0077B5&sideNums=0077B5&sideLabels=555&dates=555&ring=0077B5" width="90%" alt="streak stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quotes" />
 </div>
