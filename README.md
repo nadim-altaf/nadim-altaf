@@ -1,82 +1,58 @@
-<h1 align="center">Nadim Altaf </h1>
-<h3 align="center">
-BTech CSE Student | Aspiring Machine Learning Engineer | Data Science Enthusiast | IBM Certified Data Analyst
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/NadimAltaf/NadimAltaf/blob/main/assets/profile-coding.gif" width="300" alt="coding-gif" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=24292E&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I+am+a+Data+Science+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 
----
+  <br/>
 
-### 👨‍💻 About Me
+  <p>
+    <b>B.Tech CSE Graduate | IBM Certified Data Analyst (2025)</b><br/>
+    <i>Passionate about building intelligent systems to solve real-life problems.</i>
+  </p>
 
-- 🎓 BTech CSE | Strong foundation in Data Structures & Algorithms  
-- 🧠 Currently working on Data Science and Machine Learning Projects  
-- 🚀 Tech Stack: Python, Java, C/C++, SQL, Data Analysis, OOPs, Git  
-- 📈 Focus: ML, AI, Real-world Projects, and Open Source Contributions  
-- 💡 Passionate about building intelligent systems to solve real-life problems  
-- 📜 IBM Certified Data Analyst – Credential earned in 2025  
-- 📬 Reach me at: **nadimaltaf271@gmail.com**
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
----
+  <br/><br/>
 
-### 💼 Tech Stack
+</div>
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+## 🧐 About Me
 
-#### Tools & Frameworks
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- 🎓 **Education:** B.Tech in Computer Science & Engineering.
+- 🧠 **Focus:** Strong foundation in **DSA**, currently deep-diving into **Data Science & ML**.
+- 🚀 **Mission:** Creating real-world impact through AI and Open Source contributions.
+- 📜 **Certification:** IBM Certified Data Analyst (Earned 2025).
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <h3>🚀 Technology Stack</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadimAltaf&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadimAltaf&theme=default" alt="GitHub Streak" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
----
+  <br/>
 
-### 🧠 Current Focus
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-- 📚 Machine Learning Algorithms & Deep Learning
-- 📊 Real-world Data Science Projects (EDA, Model Deployment, etc.)
-- 💼 Java OOP Mini Projects & DSA Practice (Java, Python, C++)
-- 📂 Organizing clean, readable, and well-documented GitHub repos
+  <br/>
 
----
-
-### 📂 Featured Projects
-
-| Project | Tech Used | Description |
-|--------|------------|-------------|
-| **Spam Message Classifier** | Python, Scikit-Learn | Classifies messages as spam or not using NLP |
-| **Smart Parking System** | Java, OOP | GUI-based Java project to manage vehicle parking |
-| **EDA Portfolio** | Pandas, Matplotlib | In-depth exploratory data analysis of datasets |
-| **DSA Tracker** | Python/C++ | Leetcode + Custom practice tracker with solutions |
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPs-Concept-ff69b4?style=for-the-badge&logo=code&logoColor=white" />
+</div>
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:nadimaltaf271@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nadim-altaf-101b45335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nadimaltaf" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<!-- Optional Snake Animation -->
-<!-- ![snake gif](https://github.com/NadimAltaf/NadimAltaf/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
