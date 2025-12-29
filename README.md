@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Machine+Learning+Engineer;IBM+Certified+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Machine+Learning+Engineer;IBM+Certified+Data+Analyst" />
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=nadim-altaf&label=Profile%20Views&color=0077B5&style=flat-square" />
@@ -27,31 +27,18 @@ I am a **B.Tech Computer Science and Engineering student** with a strong interes
 I am an **IBM Certified Data Analyst**, focused on building a solid foundation in **data analytics, statistics, and machine learning**.
 
 I enjoy solving real-world problems using data and continuously improving my technical skills through hands-on projects.  
-Driven by consistency, discipline, and curiosity, my goal is to grow into a skilled **Machine Learning Engineer** and contribute to impactful, data-driven solutions.
+My goal is to grow into a skilled **Machine Learning Engineer** and work on impactful, real-world solutions.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-| Category | Skills & Tools |
-|--------|---------------|
-| **Programming Languages** | `Python` `Java` `C` `C++` `SQL` |
-| **Data Science & ML** | `Machine Learning` `Pandas` `NumPy` `Scikit-Learn` `Data Visualization` |
-| **Core CS** | `Data Structures & Algorithms` `OOP` `DBMS` |
-| **Developer Tools** | `Git` `GitHub` `VS Code` `Jupyter Notebook` |
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  Strong foundation in core computer science concepts
-
-- 📜 **IBM Certified Data Analyst (2025)**  
-  Data cleaning, analysis, visualization, and SQL
-
-- 🚀 **Projects & Practice**  
-  Actively building projects in Data Science and Machine Learning
+| Category | Skills |
+|--------|-------|
+| **Languages** | `Python` `Java` `C` `C++` `SQL` |
+| **Data Science** | `Machine Learning` `Pandas` `NumPy` `Scikit-Learn` |
+| **Core CS** | `DSA` `OOP` `DBMS` |
+| **Tools** | `Git` `GitHub` `VS Code` `Jupyter Notebook` |
 
 ---
 
@@ -65,7 +52,7 @@ Driven by consistency, discipline, and curiosity, my goal is to grow into a skil
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-altaf&theme=transparent&fire=0077B5&ring=0077B5&sideNums=0077B5&sideLabels=555&dates=555" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-altaf&theme=transparent&fire=0077B5&ring=0077B5&sideNums=0077B5&dates=555&hide_border=true" width="90%" />
 </div>
 
 ---
