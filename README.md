@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Graduate;ML+Engineer+In+The+Making;IBM+Certified+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Machine+Learning+Engineer;IBM+Certified+Data+Analyst" alt="Typing SVG" />
 </h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0077B5&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=nadim-altaf&label=Profile%20Views&color=0077B5&style=flat-square" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nadim-altaf/">
@@ -21,44 +21,55 @@
 
 ---
 
-### 📖 About Me
+## 📖 About Me
 
-I am a **B.Tech Computer Science and Engineering** student and an aspiring **Machine Learning Engineer** with a deep interest in Data Science. As an **IBM Certified Data Analyst**, As a Computer Science and Engineering student, I am focused on building a career in AI/ML, starting with a solid foundation in Data Analytics and Data Science. My current focus includes mastering data manipulation, statistical analysis, and machine learning techniques to develop intelligent solutions that address real-world challenges.
-Driven by a passion for innovation, I aim to leverage data to create impactful technologies. Committed to continuous learning and growth, I am eager to contribute to the AI/ML field and shape the future of technology through data-driven insights.
+I am a **B.Tech Computer Science and Engineering student** with a strong interest in **Machine Learning and Data Science**.  
+I am an **IBM Certified Data Analyst**, focused on building a solid foundation in **data analytics, statistics, and machine learning**.
+
+I enjoy solving real-world problems using data and continuously improving my technical skills through hands-on projects.  
+Driven by consistency, discipline, and curiosity, my goal is to grow into a skilled **Machine Learning Engineer** and contribute to impactful, data-driven solutions.
+
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
 | Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | `Python` `Java` `C/C++` `SQL` |
-| **Data Science** | `Machine Learning` `Pandas` `NumPy` `Scikit-Learn` `Data Visualization` |
-| **Core Engineering** | `Data Structures & Algorithms` `OOPs` `Database Management` |
-| **Dev Tools** | `Git` `GitHub` `VS Code` `Jupyter` |
+|--------|---------------|
+| **Programming Languages** | `Python` `Java` `C` `C++` `SQL` |
+| **Data Science & ML** | `Machine Learning` `Pandas` `NumPy` `Scikit-Learn` `Data Visualization` |
+| **Core CS** | `Data Structures & Algorithms` `OOP` `DBMS` |
+| **Developer Tools** | `Git` `GitHub` `VS Code` `Jupyter Notebook` |
 
 ---
 
-### 🏆 Certifications & Achievements
-* 🎓 **B.Tech CSE** | Strong foundation in Computer Science fundamentals.
-* 📜 **IBM Certified Data Analyst** | Specialized in data cleaning, analysis, and visualization (2025).
-* 🚀 **Open Source** | Actively contributing to Python and ML-based repositories.
+## 🏆 Certifications & Achievements
+
+- 🎓 **B.Tech in Computer Science & Engineering**  
+  Strong foundation in core computer science concepts
+
+- 📜 **IBM Certified Data Analyst (2025)**  
+  Data cleaning, analysis, visualization, and SQL
+
+- 🚀 **Projects & Practice**  
+  Actively building projects in Data Science and Machine Learning
 
 ---
 
-### 📊 Performance Metrics
+## 📊 GitHub Performance
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github.com/nadim-altaf&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/nadim-altaf&layout=compact&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&theme=transparent&title_color=0077B5&text_color=555&hide_border=true" width="40%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github.com/nadim-altaf&theme=transparent&fire=0077B5&sideNums=0077B5&sideLabels=555&dates=555&ring=0077B5" width="90%" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-altaf&theme=transparent&fire=0077B5&ring=0077B5&sideNums=0077B5&sideLabels=555&dates=555" width="90%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
