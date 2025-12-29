@@ -9,10 +9,10 @@
 ![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0077B5&style=flat-square)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+  <a href="https://www.linkedin.com/in/nadim-altaf/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nadimaltaf271@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -23,8 +23,8 @@
 
 ### 📖 About Me
 
-I am a final-year **B.Tech Computer Science and Engineering** student and an aspiring **Machine Learning Engineer** with a deep interest in Data Science. As an **IBM Certified Data Analyst**, I focus on transforming complex datasets into actionable insights through statistical analysis and predictive modeling. I am dedicated to building intelligent systems that solve real-world problems, consistently bridging the gap between theoretical algorithms and practical applications. 
-
+I am a **B.Tech Computer Science and Engineering** student and an aspiring **Machine Learning Engineer** with a deep interest in Data Science. As an **IBM Certified Data Analyst**, As a Computer Science and Engineering student, I am focused on building a career in AI/ML, starting with a solid foundation in Data Analytics and Data Science. My current focus includes mastering data manipulation, statistical analysis, and machine learning techniques to develop intelligent solutions that address real-world challenges.
+Driven by a passion for innovation, I aim to leverage data to create impactful technologies. Committed to continuous learning and growth, I am eager to contribute to the AI/ML field and shape the future of technology through data-driven insights.
 ---
 
 ### 🛠️ Technical Arsenal
@@ -47,14 +47,14 @@ I am a final-year **B.Tech Computer Science and Engineering** student and an asp
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=github.com/nadim-altaf&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/nadim-altaf&layout=compact&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=555&hide_border=true" width="40%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&fire=0077B5&sideNums=0077B5&sideLabels=555&dates=555&ring=0077B5" width="90%" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github.com/nadim-altaf&theme=transparent&fire=0077B5&sideNums=0077B5&sideLabels=555&dates=555&ring=0077B5" width="90%" alt="streak stats" />
 </div>
 
 ---
