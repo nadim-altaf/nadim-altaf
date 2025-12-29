@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Growth&fontSize=48&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Machine%20Learning%20%26%20Data%20Science&fontSize=46&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
 
-### 👋 Hi, I'm Nadim Altaf  
+### 👋 Hi, I'm Nadim Altaf
 
 **B.Tech Computer Science & Engineering Student**  
 **Aspiring Machine Learning Engineer | IBM Certified Data Analyst**
@@ -26,6 +26,7 @@
 </a>
 
 </div>
+
 
 ---
 
