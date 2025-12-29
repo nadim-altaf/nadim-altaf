@@ -3,6 +3,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Machine+Learning+Engineer;IBM+Certified+Data+Analyst" />
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=nadim-altaf&label=Profile%20Views&color=0077B5&style=flat-square" />
 
