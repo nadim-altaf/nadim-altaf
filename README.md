@@ -1,10 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=65&animation=fadeIn&fontAlignY=35)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Machine+Learning+Engineer;IBM+Certified+Data+Analyst" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Machine+Learning+Engineer;IBM+Certified+Data+Analyst" />
 
 <img src="https://komarev.com/ghpvc/?username=nadim-altaf&label=Profile%20Views&color=0077B5&style=flat-square" />
 
@@ -18,6 +16,7 @@
 </p>
 
 </div>
+
 
 ---
 
