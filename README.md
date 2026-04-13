@@ -22,8 +22,8 @@ Welcome to my GitHub! I am a CSE student passionate about understanding data, tr
 ### 📊 GitHub Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Nadim's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Nadim's Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&v=1" alt="Nadim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&v=1" alt="Nadim's Top Languages" />
 </div>
 
 <br>
