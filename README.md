@@ -16,20 +16,16 @@
 
 ---
 
-## 👋 Introduction
+## 👨‍💻 About Me
 
 I am a Computer Science student focused on **Data Science, Machine Learning, and Artificial Intelligence**.  
 I build practical solutions and continuously strengthen my skills in these areas.
-
----
-
-## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering  
 - 📊 Learning Data Science and Machine Learning  
 - 💡 Interested in applying data-driven approaches to solve real-world problems  
 - 📚 Improving programming and core concepts  
-- 🎯 Goal: Become a skilled Data Scientist | AI/ML Engineer  
+- 🎯 Goal: Become a skilled Data Scientist | AI/ML Engineer
 
 ---
 
@@ -108,14 +104,6 @@ I build practical solutions and continuously strengthen my skills in these areas
 
 Actively building projects in Data Science and Machine Learning to strengthen practical understanding.  
 > Projects will be updated as I build and publish them.
-
----
-
-## 📈 Learning Focus
-
-- Machine Learning Fundamentals  
-- Data Analysis & Visualization  
-- Problem Solving (DSA)  
 
 ---
 
