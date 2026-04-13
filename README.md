@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x400/0D1117/58A6FF/?text=Nadim+Altaf+%7C+AI+%26+ML+Engineer" alt="Nadim Altaf Hero Banner" width="100%" style="border-radius: 10px;"/>
+  <img src="https://via.placeholder.com/1500x400/0D1117/58A6FF?text=Nadim+Altaf+%7C+AI+%26+ML+Engineer" alt="Nadim Altaf Banner" width="100%">
   
   <br><br>
 
