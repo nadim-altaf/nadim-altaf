@@ -29,8 +29,6 @@ I build practical solutions and continuously strengthen my skills in these areas
 
 ---
 
-## 🧠 Skills & Tech Stack
-
 ### 💻 Programming Languages
 
 <table style="border: none; border-collapse: collapse;">
@@ -78,8 +76,6 @@ I build practical solutions and continuously strengthen my skills in these areas
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadim-altaf&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadim-altaf&theme=github_dark" height="160"/>
@@ -91,8 +87,6 @@ I build practical solutions and continuously strengthen my skills in these areas
 </p>
 
 ---
-
-## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nadim-altaf&theme=github-dark&hide_border=true" />
