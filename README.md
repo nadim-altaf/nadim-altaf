@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6AA6F8&center=true&vCenter=true&width=400&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Aspiring+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=400&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Aspiring+AI+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Field-Data%20Science-lightgrey?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat-square" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## 👋 Introduction
 
 I am a Computer Science student focused on **Data Science, Machine Learning, and Artificial Intelligence**.  
-I aim to build practical solutions and continuously improve my technical skills.
+I build practical solutions and continuously strengthen my skills in these areas.
 
 ---
 
@@ -27,7 +27,7 @@ I aim to build practical solutions and continuously improve my technical skills.
 
 - 🎓 B.Tech in Computer Science & Engineering  
 - 📊 Learning Data Science and Machine Learning  
-- 💡 Interested in solving real-world problems  
+- 💡 Interested in applying data-driven approaches to solve real-world problems  
 - 📚 Improving programming and core concepts  
 - 🎯 Goal: Become a skilled Data Scientist | AI/ML Engineer  
 
@@ -51,36 +51,38 @@ I aim to build practical solutions and continuously improve my technical skills.
     <td align="center" style="border: none; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=java" height="45"/><br>Java
     </td>
-    <!-- <td align="center" style="border: none; padding: 10px;">
-      <img src="YOUR_IMAGE_LINK_HERE" height="45"/><br>SQL
-    </td> -->
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=postgres" height="45"/><br>SQL
+    </td>
   </tr>
 </table>
 
 ---
 
 ### 📊 Data Science Libraries & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Pandas-2D3748?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-2D3748?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-2D3748?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-2D3748?style=flat"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-2D3748?style=flat"/>
+  <img src="https://img.shields.io/badge/Pandas-2D3748?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-2D3748?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2D3748?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-2D3748?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-2D3748?style=flat-square"/>
 </p>
 
 ---
 
 ### ⚙️ Computer Science Fundamentals
+
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4A5568?style=flat"/>
-  <img src="https://img.shields.io/badge/Object-Oriented%20Programming-4A5568?style=flat"/>
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems-4A5568?style=flat"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-4A5568?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4A5568?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Object-Oriented%20Programming-4A5568?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database%20Management%20Systems-4A5568?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-4A5568?style=flat-square"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadim-altaf&theme=github_dark" height="160"/>
@@ -97,15 +99,15 @@ I aim to build practical solutions and continuously improve my technical skills.
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nadim-altaf&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=nadim-altaf&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Projects
 
-Currently working on building projects in **Data Science and Machine Learning**.  
-Projects will be added here as I progress.
+Actively building projects in Data Science and Machine Learning to strengthen practical understanding.  
+> Projects will be updated as I build and publish them.
 
 ---
 
@@ -127,12 +129,4 @@ Projects will be added here as I progress.
   <a href="https://linkedin.com/in/nadim-altaf">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-## ⚡ Note
-
-<p align="center">
-Focused on consistency, learning, and building real-world AI/ML skills.
 </p>
