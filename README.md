@@ -1,128 +1,24 @@
-<!-- Profile README for github.com/nadim-altaf -->
-<!-- Theme: GitHub dark (#0D1117) with blue accents (#58A6FF) -->
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>🔭 Currently focused on building strong foundations in Data Science and Machine Learning  <br>🤝 Open to collaborating on Data Science, AI, and real-world projects  <br>🆘 Seeking guidance in advanced Machine Learning and model optimization  <br>🌱 Learning Python, Statistics, Data Analysis, and ML algorithms step by step  <br>💬 Feel free to ask me about Python, SQL, Data Analysis, and core concepts  <br>⚡ Passionate about using data to solve real-world problems and build impactful solutions
 
-<div align="center" style="background-color:#0D1117; padding: 32px 16px; border-radius: 12px;">
 
-  <!-- Top Banner / Hero -->
-  <h1 style="color:#FFFFFF; margin-bottom: 8px;">
-    Hi, I'm <!-- TODO: INSERT YOUR NAME OR LEAVE AS USERNAME --> Nadim
-  </h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nadim-altaf) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nadim Altaf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadimaltaf271@cukashmir.edu.in) 
 
-  <h3 style="color:#8B949E; font-weight:400; margin-top:0;">
-    <!-- TODO: INSERT A SHORT, TRUTHFUL TAGLINE BASED ONLY ON YOUR REAL WORK -->
-    <!-- Example (only use if accurate to your repos): -->
-    <!-- Building things with [LANGUAGES/TOOLS YOU REALLY USE] -->
-  </h3>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nadim-altaf&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nadim-altaf&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadim-altaf&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  <!-- Typing Animation (update lines to match your real roles/stack) -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=GitHub+Developer;Open-Source+Contributor;<!-- TODO: REPLACE WITH REAL ROLES OR REMOVE LINES -->"
-    alt="Typing SVG"
-  />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nadim-altaf&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=nadim-altaf&icon=10&color=13)](https://visitcount.itsvg.in)
 
-### 👤 About Me
-
-<!-- Keep this section strictly truthful and minimal. Edit bullets to match what’s verifiably true from your GitHub profile and activity. -->
-
-- 🌍 Based in <!-- OPTIONAL: add location only if it’s in your GitHub profile; otherwise remove -->
-- 🧑‍💻 Working with: <!-- TODO: LIST ONLY LANGUAGES/TOOLS VISIBLE IN YOUR REPOS, e.g. --> `Python`, `JavaScript`, `TypeScript`, `Go`
-- 📂 Public repositories: <!-- YOU CAN KEEP THIS GENERIC --> focused on learning, experimentation, and practical projects
-- 🔎 Interests on GitHub: <!-- OPTIONAL, but keep aligned with what your repos show, e.g. --> web development, automation, or data work
-
-> Before committing, please review every bullet and remove anything that is not clearly supported by your real repositories or profile.
-
----
-
-### 🛠 Tech Stack
-
-<!-- IMPORTANT:
-     - Only include technologies that appear in your actual repositories.
-     - If a section below doesn’t apply, delete it entirely.
--->
-
-<div align="center">
-
-<!-- Languages (edit/remove based strictly on your repo languages) -->
-<!-- Examples below – KEEP ONLY WHAT YOU ACTUALLY USE -->
-  
-<!-- Python -->
-<!-- If you have Python repos: -->
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python" />
-
-<!-- JavaScript -->
-<!-- If you have JS repos: -->
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-
-<!-- TypeScript -->
-<!-- If you have TS repos: -->
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TypeScript" />
-
-<!-- Go -->
-<!-- If you have Go repos: -->
-<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-
-<!-- Add/remove more badges below ONLY if they appear in your repos
-     Examples:
-     - Frameworks: React, Next.js, Node.js, Django, FastAPI, etc.
-     - Databases: PostgreSQL, MySQL, MongoDB, etc.
-     - Tools: Git, Docker, GitHub Actions, etc.
--->
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nadim-altaf&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true"
-    alt="GitHub Stats"
-    height="160"
-  />
-
-  <!-- Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-altaf&layout=compact&langs_count=8&theme=github_dark&bg_color=0D1117&title_color=58A6FF&hide_border=true"
-    alt="Top Languages"
-    height="160"
-  />
-
-</div>
-
----
-
-### 📫 Contact
-
-<!-- Only add items here if they are publicly available on your GitHub profile (bio, website, social links, etc.). If not, delete this entire section. -->
-
-<div align="center">
-
-<!-- Example placeholders – replace ONLY if these exist on your profile, otherwise remove. -->
-
-<!-- Website / Portfolio -->
-<!-- <a href="https://your-website-here" target="_blank">
-  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Website" />
-</a> -->
-
-<!-- LinkedIn -->
-<!-- <a href="https://www.linkedin.com/in/your-handle/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-</a> -->
-
-<!-- Email -->
-<!-- <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a> -->
-
-</div>
-
----
-
-<!-- Minimal, professional, and honest. Keep this README in sync with your actual activity and tech stack. -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
