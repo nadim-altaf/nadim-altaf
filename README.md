@@ -3,7 +3,7 @@
   
   <br><br>
 
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/nadim-altaf">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist;Machine+Learning+Engineer;B.Tech+CSE+Undergrad;Building+Impactful+AI+Solutions" alt="Typing SVG" />
   </a>
 
@@ -12,13 +12,13 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/your-link" target="_blank">
+    <a href="https://linkedin.com/in/nadim-altaf" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:nadimaltaf271@cukashmir.edu.in">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/your-username">
+    <a href="https://github.com/nadim-altaf">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -74,8 +74,8 @@ I am a **B.Tech Computer Science Engineering** student specializing in **Data Sc
 
 | 🚀 Project Identity | 📝 Architecture & Impact | 🛠️ Tech Stack | 🔗 Links |
 | :--- | :--- | :--- | :--- |
-| **[Project Alpha: Predictive Engine]** | Engineered a robust predictive model forecasting critical metrics. Optimized data pipelines to handle large-scale datasets efficiently, achieving state-of-the-art accuracy. | `Python` `Pandas` `Scikit-Learn` | [Source Code](https://github.com/your-username/repo-link) <br> [Live Demo](https://your-link.com) |
-| **[Project Beta: Deep Analytics]** | Conducted comprehensive Exploratory Data Analysis (EDA) on a high-dimensional dataset. Extracted hidden trends and built interactive visualizations for stakeholder reporting. | `Python` `NumPy` `Matplotlib` | [Source Code](https://github.com/your-username/repo-link) |
+| **[Project Alpha: Predictive Engine]** | Engineered a robust predictive model forecasting critical metrics. Optimized data pipelines to handle large-scale datasets efficiently, achieving state-of-the-art accuracy. | `Python` `Pandas` `Scikit-Learn` | [Source Code](https://github.com/nadim-altaf/repo-link) <br> [Live Demo](https://github.com/nadim-altaf) |
+| **[Project Beta: Deep Analytics]** | Conducted comprehensive Exploratory Data Analysis (EDA) on a high-dimensional dataset. Extracted hidden trends and built interactive visualizations for stakeholder reporting. | `Python` `NumPy` `Matplotlib` | [Source Code](https://github.com/nadim-altaf/repo-link) |
 | **[Project Gamma: DB Optimizer]** | Designed a highly optimized, scalable database management system. Improved query execution times by X% using advanced indexing and structured SQL procedures. | `SQL` `C++` `Java` | [Source Code](https://github.com/your-username/repo-link) |
 
 > *Explore my complete repositories below for more deep-learning models, scripts, and analytical pipelines.*
@@ -101,9 +101,9 @@ I am a **B.Tech Computer Science Engineering** student specializing in **Data Sc
 ### 🐍 Contribution Activity
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadim-altaf/nadim-altaf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadim-altaf/nadim-altaf/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nadim-altaf/nadim-altaf/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
