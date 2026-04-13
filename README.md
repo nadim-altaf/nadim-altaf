@@ -1,111 +1,143 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=SYSTEM+ACCESS&color=007bff&style=flat-square&logo=github" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" height="8px" />
-  <br />
-  <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="32"> NADIM ALTAF <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="32"></h1>
+  <img src="https://via.placeholder.com/1500x400/0D1117/58A6FF/?text=Nadim+Altaf+%7C+AI+%26+ML+Engineer" alt="Nadim Altaf Hero Banner" width="100%" style="border-radius: 10px;"/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASPIRING+DATA+SCIENTIST;MACHINE+LEARNING+ENGINEER;B.TECH+CSE+UNDERGRAD;AI+SOLUTIONS+ARCHITECT" alt="Typing SVG" />
+  <br><br>
+
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist;Machine+Learning+Engineer;B.Tech+CSE+Undergrad;Building+Impactful+AI+Solutions" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>Engineering intelligence. Optimizing the future.</strong>
+  <p align="center" style="color: #8b949e; font-size: 16px;">
+    <b>Architecting intelligent systems. Transforming raw data into high-impact, real-world solutions.</b>
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/[YOUR_TWITTER]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/your-link" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/your-username">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
 
-<br />
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="28"> Executive Summary
+## 🧠 Executive Summary
 
-I am a high-performance **B.Tech CSE Student** dedicated to the pursuit of technical mastery in **Artificial Intelligence** and **Machine Learning**. My work is centered around creating robust, scalable, and data-driven solutions that bridge the gap between theoretical research and real-world application. 
+I am a **B.Tech Computer Science Engineering** student specializing in **Data Science, Machine Learning, and Artificial Intelligence**. Operating at the intersection of complex mathematics and scalable software engineering, my mission is to build data-driven products that solve critical business problems. I thrive on discipline, continuous learning, and a relentless growth mindset aimed at technical excellence and impactful innovation.
 
-- 🦾 **Current Mission:** Mastering Deep Learning architectures and end-to-end MLOps pipelines.
-- 📈 **Goal:** Building impactful AI systems that drive significant economic and societal value.
-- 🧠 **Philosophy:** Disciplined execution. Data over opinions. Continuous iteration.
+* **Engineering Philosophy:** Clean code, robust architecture, and highly optimized models.
+* **Current Trajectory:** Deepening expertise in advanced ML architectures and predictive analytics.
+* **Ultimate Goal:** Engineer top-tier AI solutions and achieve substantial financial success through high-value technological contributions.
 
-<br />
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699/512.gif" width="28"> Technical Arsenal
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Data Science & ML</h4>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visualization-20B2AA?style=for-the-badge&logo=plotly&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"> High-Impact Projects
+## ⚙️ Technical Arsenal
 
 <div align="center">
-  <table border="0">
+
+**Core Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+<br><br>**Data Science & Machine Learning**<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Data_Visualization-20B2AA?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization" />
+
+<br><br>**Development Tools**<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
+
+## 🔬 Featured Projects
+
+| 🚀 Project Identity | 📝 Architecture & Impact | 🛠️ Tech Stack | 🔗 Links |
+| :--- | :--- | :--- | :--- |
+| **[Project Alpha: Predictive Engine]** | Engineered a robust predictive model forecasting critical metrics. Optimized data pipelines to handle large-scale datasets efficiently, achieving state-of-the-art accuracy. | `Python` `Pandas` `Scikit-Learn` | [Source Code](https://github.com/your-username/repo-link) <br> [Live Demo](https://your-link.com) |
+| **[Project Beta: Deep Analytics]** | Conducted comprehensive Exploratory Data Analysis (EDA) on a high-dimensional dataset. Extracted hidden trends and built interactive visualizations for stakeholder reporting. | `Python` `NumPy` `Matplotlib` | [Source Code](https://github.com/your-username/repo-link) |
+| **[Project Gamma: DB Optimizer]** | Designed a highly optimized, scalable database management system. Improved query execution times by X% using advanced indexing and structured SQL procedures. | `SQL` `C++` `Java` | [Source Code](https://github.com/your-username/repo-link) |
+
+> *Explore my complete repositories below for more deep-learning models, scripts, and analytical pipelines.*
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=6" alt="Top Languages" width="60%" />
+</div>
+
+<br>
+
+### 🐍 Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+*(Note: To enable the snake animation, you will need to set up the standard GitHub Actions workflow in your profile repository).*
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
+
+<div align="center">
+  <table>
     <tr>
-      <td>
-        <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_1]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_1]&theme=tokyonight&show_owner=true" alt="Project 1" />
-        </a>
+      <td width="50%" valign="top">
+        <h3>🏆 Achievements & Certifications</h3>
+        <ul>
+          <li>🥇 <b>IBM Data Analyst Certification</b> – Comprehensive mastery of data manipulation, SQL, and analytical methodologies.</li>
+          <li>🏅 <i>[Upcoming Certification / Hackathon Win Placeholder]</i></li>
+          <li>🏅 <i>[Academic Excellence / Project Award Placeholder]</i></li>
+        </ul>
       </td>
-      <td>
-        <a href="https://github.com/[YOUR_USERNAME]/[PROJECT_2]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_2]&theme=tokyonight&show_owner=true" alt="Project 2" />
-        </a>
+      <td width="50%" valign="top">
+        <h3>🎯 Current Trajectory</h3>
+        <ul>
+          <li>📚 <b>Learning:</b> Deepening knowledge in Neural Networks and scalable ML deployments.</li>
+          <li>🛠️ <b>Building:</b> An end-to-end Machine Learning pipeline utilizing live APIs.</li>
+          <li>🤝 <b>Seeking:</b> Collaborative opportunities on open-source AI frameworks.</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<br />
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="28"> Performance Metrics
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" width="98%" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>⚡ Contribution Flow</h3>
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<br />
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="28"> Milestones & Credentials
-
-- 🎓 **IBM Professional Data Analyst** — Certified expert in data lifecycle management.
-- 🏆 **Top-Tier Performance** — B.Tech CSE Student focusing on high-level AI deployment.
-- 🎖️ *[Place your next achievement here]*
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" height="8px" />
-  <p><i>"The best way to predict the future is to create it."</i></p>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <p><i><b>"In God we trust, all others must bring data."</b> — W. Edwards Deming</i></p>
 </div>
